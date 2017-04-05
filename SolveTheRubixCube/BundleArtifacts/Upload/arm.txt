@@ -1,0 +1,2 @@
+MainPackage=C:\Projects\SolveTheRubixCube\SolveTheRubixCube\bin\ARM\Release\Upload\SolveTheRubixCube_1.1.3.0_ARM.appx
+SymbolPackage=C:\Projects\SolveTheRubixCube\SolveTheRubixCube\AppPackages\SolveTheRubixCube_1.1.3.0\SolveTheRubixCube_1.1.3.0_ARM.appxsym
